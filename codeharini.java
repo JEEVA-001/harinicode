@@ -5,7 +5,7 @@ public class codeharini {
     {
         System.out.println("jeeva");
         System.out.println("jeeva");
-        
+        int a=20;
     }
     
 }
